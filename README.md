@@ -1,6 +1,6 @@
 # Chatty – A Real-Time Messenger Platform
 
-> This codebase is licensed for **commercial use only with a paid license** Plus **Full Source with Whop AI Integration**.
+> This codebase is licensed for **commercial use only with a paid license** Plus **Full Source with Chatty AI Integration**.
 > It’s \*\*free for personal use\*\*.
 
 ---
